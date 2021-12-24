@@ -1,8 +1,5 @@
 .hero {
-    background-image: url("../images/hero-bg.jpg");
-    background-size: cover;
     background-position: bottom;
-    position: relative;
     height: auto;
     text-align: center;
     margin-bottom: 40px;
@@ -26,22 +23,22 @@
 
 .secondary-content h3 {
     font-size: 25px;
-    margin: 20px 0 20px 0; 
+    margin: 20px 0; 
 }
 
 .secondary-content p {
     font-size: 16px;
     line-height: 1.5;
-    margin: 20px 0 20px 0;
+    margin: 20px 0;
 }
 
 
 .secondary-content ul {
-    margin: 20px 15px 20px 15px;
+    margin: 15px 20px;
 }
 
 .secondary-content li {
-    color: #3916b2;
+    color: #39a6b2;
     margin: 0 10px 0 10px;
 }
 
