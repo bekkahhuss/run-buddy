@@ -17,3 +17,6 @@ https://bekkahhuss.github.io/run-buddy/
 
 
 Made with ❤️ by Bekkah 
+
+
+### ©️2019 Run Buddy, Inc
